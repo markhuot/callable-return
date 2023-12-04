@@ -1,0 +1,23 @@
+{
+    "name": "markhuot/callable-return",
+    "require": {
+        "phpstan/phpstan": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "markhuot",
+            "email": "mark@markhuot.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "github",
+            "url": "https://github.com/phpstan/phpstan-src"
+        }
+    ]
+}
